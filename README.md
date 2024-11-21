@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Bizerte</h3>
+<h3 align="center">A FullStack frontend developer from Bizerte</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lynamoujahed&label=Profile%20views&color=0e75b6&style=flat" alt="lynamoujahed" /> </p>
 
